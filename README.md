@@ -1,4 +1,4 @@
-![Header banner for SolfulGR4dY](https://raw.githubusercontent.com/SolfulGR4dY/SolfulGR4dY/main/assets/header-banner.png)
+![Header banner for SolfulGR4dY](https://raw.githubusercontent.com/graybern/graybern/main/assets/header-banner.png)
 
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>
