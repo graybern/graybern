@@ -1,11 +1,8 @@
 ![Header banner for SolfulGR4dY](https://raw.githubusercontent.com/graybern/graybern/main/assets/header-banner.png)
 
-<h1 align='center'> Hi there! :wave:</h1>
-<p align='center'>
-I'm Grady. :nerd_face:
-</p>
+<h1 align='center' style='"border-bottom:0px"'> Hi :wave: I'm Grady. :nerd_face:</h1>
 
-### Skills 👨‍💻
+## Skills 👨‍💻
 #### Version Control
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -32,3 +29,9 @@ I'm Grady. :nerd_face:
 
 #### Infrastructure as Code (IaC)
 <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/> <img alt="OpenTofu" src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=white"/> <img alt="Pulumi" src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white"/>
+
+## My Favorite Tools 🔧
+- dotfiles (shell/vim)
+
+## My Projects 🏗️
+- RPI Cluster
